@@ -100,7 +100,7 @@ leetcode 150: Evaluate Reverse Polish Notation 풀이
 
 ## 🔗 문제풀이 링크
 
-- [주차에 해당하는 문제를 풀면됩니다.](https://geode-airport-203.notion.site/2019ece74cdf80e4bd9fcf5a2fc6495f)
+- [주차에 해당하는 문제를 풀면됩니다.](https://www.notion.so/2259ece74cdf80408201e0e40bb31072?v=2259ece74cdf81ee958b000c09daa5f6)
 
 ## 강의 링크
 - https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC
