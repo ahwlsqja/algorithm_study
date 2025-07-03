@@ -102,4 +102,6 @@ leetcode 150: Evaluate Reverse Polish Notation 풀이
 
 - [솔보드ac](https://solved.ac)
 
+## 강의 링크
+- https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC
 ---
