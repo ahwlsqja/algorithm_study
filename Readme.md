@@ -58,7 +58,7 @@ git checkout -b "내이름"
 git add .
 강의 내용 커밋 시
 git commit -m "주차 제목"
-문제 커밋 시 문제 종류에 따라서 예를 들면 그리디 문제를 풀면 greedy 브랜치에서 푼 문제를 커밋하면됨
+week 폴더 안에 커밋해주세요
 git commit -m "백준 [문제 번호]: [문제 이름] 풀이"
 ```
 
