@@ -25,8 +25,13 @@ algorithm_study/
 │   ├── week2/
 │   └── ...
 |── main/
-│   ├── stack
-│   ├── heap
+│   └── README.md
+├── / greedy
+│   ├── 회의실 배정_ahwlsqjs_풀이.py
+│   ├── 동전 0_nomad1jin_풀이.java
+│   └── ...
+├── / DP
+│   ├── BOJ_거리_sujin_풀이.py
 │   └── ...
 └── README.md
 ```
@@ -53,7 +58,7 @@ git checkout -b "내이름"
 git add .
 강의 내용 커밋 시
 git commit -m "주차 제목"
-문제 커밋 시
+문제 커밋 시 문제 종류에 따라서 예를 들면 그리디 문제를 풀면 greedy 브랜치에서 푼 문제를 커밋하면됨
 git commit -m "백준 [문제 번호]: [문제 이름] 풀이"
 ```
 
