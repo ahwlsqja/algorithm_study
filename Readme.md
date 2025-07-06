@@ -20,7 +20,7 @@ algorithm_study/
 │   ├── week1/
 │   ├── week2/
 │   └── ...
-├── nomad1Jin/
+├── nomad1jin/
 │   ├── week1/
 │   ├── week2/
 │   └── ...
