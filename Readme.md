@@ -25,13 +25,8 @@ algorithm_study/
 │   ├── week2/
 │   └── ...
 |── main/
-│   └── README.md
-├── / greedy
-│   ├── 회의실 배정_ahwlsqjs_풀이.py
-│   ├── 동전 0_nomad1jin_풀이.java
-│   └── ...
-├── / DP
-│   ├── BOJ_거리_sujin_풀이.py
+│   ├── week1/
+│   ├── week2/
 │   └── ...
 └── README.md
 ```
