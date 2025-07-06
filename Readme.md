@@ -88,7 +88,7 @@ leetcode 150: Evaluate Reverse Polish Notation 풀이
 |------|--------|--------|----------|
 | 모진영 | https://github.com/ahwlsqja | ahwlsqja | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
 | 이수진 | https://github.com/owlemily | owlemily | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
-| 신윤진 | https://github.com/nomad1jin | nomad1Jin | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
+| 신윤진 | https://github.com/nomad1jin | nomad1jin | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
 
 ## 📊 주간 현황
 
