@@ -20,13 +20,17 @@ algorithm_study/
 │   ├── week1/
 │   ├── week2/
 │   └── ...
-├── nomad1jin/
+├── nomad1Jin/
+│   ├── week1/
+│   ├── week2/
+│   └── ...
+├── phoonil/
 │   ├── week1/
 │   ├── week2/
 │   └── ...
 |── main/
-│   ├── week1/
-│   ├── week2/
+│   ├── stack
+│   ├── heap
 │   └── ...
 └── README.md
 ```
@@ -53,7 +57,7 @@ git checkout -b "내이름"
 git add .
 강의 내용 커밋 시
 git commit -m "주차 제목"
-week 폴더 안에 커밋해주세요
+문제 커밋 시
 git commit -m "백준 [문제 번호]: [문제 이름] 풀이"
 ```
 
@@ -86,9 +90,10 @@ leetcode 150: Evaluate Reverse Polish Notation 풀이
 
 | 이름 | GitHub | 브랜치 | 진행상황 |
 |------|--------|--------|----------|
+| 박훈일 | https://github.com/HoonilP | pHoonil | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
 | 모진영 | https://github.com/ahwlsqja | ahwlsqja | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
 | 이수진 | https://github.com/owlemily | owlemily | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
-| 신윤진 | https://github.com/nomad1jin | nomad1jin | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
+| 신윤진 | https://github.com/nomad1jin | nomad1Jin | ![badge](https://img.shields.io/badge/progress-0%2F52-red) |
 
 ## 📊 주간 현황
 
