@@ -13,6 +13,7 @@ public class queue_11866 {
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         int N = Integer.parseInt(st.nextToken());
         int K = Integer.parseInt(st.nextToken());
+        
         Queue<Integer> q = new LinkedList<>();
         
         for(int i=1; i<=N; i++){
