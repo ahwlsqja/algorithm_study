@@ -1,6 +1,4 @@
 # stack에 넣고, " "를 만나면 stack을 pop해서 단어를 거꾸로 출력
-from collections import deque
-queue = deque()
 S = input()
 stack = []
 answer = ""
