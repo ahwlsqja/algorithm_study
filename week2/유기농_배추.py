@@ -1,3 +1,6 @@
+'''
+가로 세로 x, y가 헷갈렸던 문제
+'''
 import sys
 input = lambda: sys.stdin.readline().rstrip()
 sys.setrecursionlimit(1000000)
