@@ -1,4 +1,5 @@
 '''
+# 뒤의 인덱스부터 정렬해나가기 시작. 
 # 시간초과 발생한 코드. 함수를 사용하지 않으면 최적화가 안됨.
 import sys
 input = lambda: sys.stdin.readline().rstrip()
