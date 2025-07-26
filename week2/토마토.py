@@ -12,7 +12,8 @@ dy = [0, 0, -1, 1]
 for i in range(N):
     for j in range(M):
         if graph[i][j] == 1:
-            q.append((i, j))
+            q.append((i, j)) #익은칸부터 시작할수가 있으니까
+            
 def bfs():    
     while(q):
         sx, sy = q.popleft() #익은토마토 하나를 꺼냄.

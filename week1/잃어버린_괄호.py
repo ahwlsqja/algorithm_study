@@ -1,37 +1,3 @@
-'''
-import re
-import sys
-input = lambda: sys.stdin.readline().rstrip()
-s = input()
-nums = s.split('-')
-#nums = nums.split('-')
-#print(nums)
-stack = []
-flag = False # 괄호가 열렸는지 확인
-for i in range(len(nums)):
-    if '+' not in nums[i]:
-        stack.append(nums[i])
-        
-        if flag == False:
-            stack.append('-')
-            stack.append('(')
-            flag = True
-        else:
-            stack.append(')')
-            
-    else:
-        stack.append(nums[i])
-        if flag == True:
-            stack.append(')')
-s = ''
-for i in (stack):
-    i = re.sub(r'\b0+(\d+)', r'\1', i)
-    s += i
-answer = eval(s)
-
-print(answer)
-'''
-
 import re
 import sys
 
