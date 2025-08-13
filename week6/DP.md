@@ -115,16 +115,14 @@ print(d[n])
 이런식입니다...
 <img width="1091" height="392" alt="image" src="https://github.com/user-attachments/assets/bbfc3803-3009-414f-a2d1-2d04723fcfac" />
 이렇게 점화식을 세울 수 있음. 
+
 ```python
 n = int(input())
-
 array = list(map(int, input().split()))
-
 d = [0] * 100
 d[0] = array[0]
 d[1] = max(array[0], array[1])
 for i in range(2, n):
   d[i] = max(d[i - 1], d[i - 2] + array[i])
-
 print(d[n - 1])
 ```
